@@ -1,0 +1,23 @@
+{
+  "name": "rohanth-bakki-portfolio",
+  "version": "1.0.0",
+  "description": "Stunning, premium, futuristic 3D personal portfolio for Rohanth Bakki — Digital Creator & Instagram Influencer.",
+  "main": "index.html",
+  "scripts": {
+    "start": "python server.py --open",
+    "dev": "python server.py --open",
+    "serve": "npx serve ."
+  },
+  "keywords": [
+    "rohanth-bakki",
+    "portfolio",
+    "3d",
+    "threejs",
+    "digital-creator",
+    "influencer",
+    "awwwards",
+    "webgl"
+  ],
+  "author": "Rohanth Bakki <@rohanthbakki>",
+  "license": "MIT"
+}
